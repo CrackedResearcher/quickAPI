@@ -1,4 +1,4 @@
-<img width="396" alt="Screenshot 2025-03-14 at 10 25 08 PM" src="https://github.com/user-attachments/assets/6b7698f7-c3e3-44fa-a272-4ea013d5d6c1" />
+<img width="100%" alt="quickAPI logo" src="https://github.com/user-attachments/assets/6b7698f7-c3e3-44fa-a272-4ea013d5d6c1" />
 A *blazing-fast* API mock tool for frontend devs—build prototypes without waiting for the backend!
 
 ### **Why You Need It**  
