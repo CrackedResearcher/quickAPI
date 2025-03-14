@@ -16,13 +16,13 @@ const HeroSection = () => {
         </p>
         <div className="flex space-x-4">
           <a
-            href="#"
+            href="/app"
             className="gradient-button text-white px-6 py-3 rounded-md font-medium"
           >
             Get Started
           </a>
           <a
-            href="#"
+            href="/docs"
             className="glass border-0 px-6 py-3 rounded-md hover:bg-gray-100 font-medium transition-all"
           >
             View Docs
@@ -30,7 +30,7 @@ const HeroSection = () => {
         </div>
       </div>
       <div className="md:w-1/2 flex justify-end">
-        <img src="/heroAstro.svg" alt="Logo" width={650} height={400} />
+        <img src="/heroAstro.svg" alt="Logo" width={650} height={400} title="dude this tool is too quick, wtf, how? 😨"/>
       </div>
     </section>
   );
