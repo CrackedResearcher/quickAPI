@@ -1,0 +1,17 @@
+from fastapi import APIRouter
+
+router = APIRouter()
+
+@router.get("/users", response_model=list, status_code=200, tags=["users"])
+async def get_users():
+    return [{"name": "Alice"}, {"name": "Bob"}]
+
+# Equivalent to:
+router.add_api_route(
+    path="/users",
+    endpoint=get_users,
+    methods=["GET"],
+    response_model=list,
+    status_code=200,
+    tags=["users"]
+)
