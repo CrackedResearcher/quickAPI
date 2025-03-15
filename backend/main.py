@@ -19,7 +19,7 @@ RouteManager.register("/", "home_page", ["GET"])
 
 
 def home_page():
-    return {"message": "Welcome test success!"}
+    return {"message": "Welcome test success check!"}
 
 
 RouteManager.apply_routes(app)
