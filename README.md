@@ -2,9 +2,10 @@
 
 A *blazing-fast* API mock tool for frontend devs—build prototypes without waiting for the backend!    
 
+
 ---
  
-### **Why You Need It**  
+### **Why You Need It (I built it -soo)**  
 - **No more backend delays** – Start building immediately, even if the backend isn’t done.  
 - **Seamless testing** – Simulate real-world API responses, errors, and delays.  
 - **Work independently** – Frontend and backend teams can develop in parallel.  
