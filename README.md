@@ -2,7 +2,6 @@
 
 A *blazing-fast* API mock tool for frontend devs—build prototypes without waiting for the backend!    
 
-
 ---
  
 ### **Why You Need It (I built it -soo)**  
